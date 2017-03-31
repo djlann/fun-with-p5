@@ -1,1 +1,4 @@
-var a = 40;
+var a = 40,
+  cols,
+  rows,
+  grid = [];
